@@ -1,0 +1,65 @@
+{
+    "Pathfinder": {
+        "checkpoints": [
+            {
+                "steps": 4999997,
+                "file_path": "results\\Run3 3\\Pathfinder\\Pathfinder-4999997.onnx",
+                "reward": 852.8495913191807,
+                "creation_time": 1670364131.1157563,
+                "auxillary_file_paths": [
+                    "results\\Run3 3\\Pathfinder\\Pathfinder-4999997.pt"
+                ]
+            },
+            {
+                "steps": 5499985,
+                "file_path": "results\\Run3 3\\Pathfinder\\Pathfinder-5499985.onnx",
+                "reward": 852.3629268822147,
+                "creation_time": 1670364974.8174033,
+                "auxillary_file_paths": [
+                    "results\\Run3 3\\Pathfinder\\Pathfinder-5499985.pt"
+                ]
+            },
+            {
+                "steps": 5999972,
+                "file_path": "results\\Run3 3\\Pathfinder\\Pathfinder-5999972.onnx",
+                "reward": 862.8606614770356,
+                "creation_time": 1670365872.6111033,
+                "auxillary_file_paths": [
+                    "results\\Run3 3\\Pathfinder\\Pathfinder-5999972.pt"
+                ]
+            },
+            {
+                "steps": 6499968,
+                "file_path": "results\\Run3 3\\Pathfinder\\Pathfinder-6499968.onnx",
+                "reward": 857.5403418611295,
+                "creation_time": 1670367001.555765,
+                "auxillary_file_paths": [
+                    "results\\Run3 3\\Pathfinder\\Pathfinder-6499968.pt"
+                ]
+            },
+            {
+                "steps": 6556168,
+                "file_path": "results\\Run3 3\\Pathfinder\\Pathfinder-6556168.onnx",
+                "reward": 847.0121012492614,
+                "creation_time": 1670367185.3265338,
+                "auxillary_file_paths": [
+                    "results\\Run3 3\\Pathfinder\\Pathfinder-6556168.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 6556168,
+            "file_path": "results\\Run3 3\\Pathfinder.onnx",
+            "reward": 847.0121012492614,
+            "creation_time": 1670367185.3265338,
+            "auxillary_file_paths": [
+                "results\\Run3 3\\Pathfinder\\Pathfinder-6556168.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

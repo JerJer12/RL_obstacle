@@ -1,0 +1,47 @@
+{
+    "Pathfinder": {
+        "checkpoints": [
+            {
+                "steps": 499983,
+                "file_path": "results\\Run with moving with penalty\\Pathfinder\\Pathfinder-499983.onnx",
+                "reward": -302.19860402923644,
+                "creation_time": 1670444486.060984,
+                "auxillary_file_paths": [
+                    "results\\Run with moving with penalty\\Pathfinder\\Pathfinder-499983.pt"
+                ]
+            },
+            {
+                "steps": 999986,
+                "file_path": "results\\Run with moving with penalty\\Pathfinder\\Pathfinder-999986.onnx",
+                "reward": -266.06942487436794,
+                "creation_time": 1670445480.6408844,
+                "auxillary_file_paths": [
+                    "results\\Run with moving with penalty\\Pathfinder\\Pathfinder-999986.pt"
+                ]
+            },
+            {
+                "steps": 1003640,
+                "file_path": "results\\Run with moving with penalty\\Pathfinder\\Pathfinder-1003640.onnx",
+                "reward": -273.3963813781738,
+                "creation_time": 1670445524.7026148,
+                "auxillary_file_paths": [
+                    "results\\Run with moving with penalty\\Pathfinder\\Pathfinder-1003640.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1003640,
+            "file_path": "results\\Run with moving with penalty\\Pathfinder.onnx",
+            "reward": -273.3963813781738,
+            "creation_time": 1670445524.7026148,
+            "auxillary_file_paths": [
+                "results\\Run with moving with penalty\\Pathfinder\\Pathfinder-1003640.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

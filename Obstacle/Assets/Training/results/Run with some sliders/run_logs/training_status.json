@@ -1,0 +1,65 @@
+{
+    "Pathfinder": {
+        "checkpoints": [
+            {
+                "steps": 1999988,
+                "file_path": "results\\Run with some sliders\\Pathfinder\\Pathfinder-1999988.onnx",
+                "reward": 184.41023368161657,
+                "creation_time": 1670434259.2339227,
+                "auxillary_file_paths": [
+                    "results\\Run with some sliders\\Pathfinder\\Pathfinder-1999988.pt"
+                ]
+            },
+            {
+                "steps": 2499986,
+                "file_path": "results\\Run with some sliders\\Pathfinder\\Pathfinder-2499986.onnx",
+                "reward": 180.75863264079365,
+                "creation_time": 1670434925.9452739,
+                "auxillary_file_paths": [
+                    "results\\Run with some sliders\\Pathfinder\\Pathfinder-2499986.pt"
+                ]
+            },
+            {
+                "steps": 2999968,
+                "file_path": "results\\Run with some sliders\\Pathfinder\\Pathfinder-2999968.onnx",
+                "reward": 177.3783826503528,
+                "creation_time": 1670435612.9816396,
+                "auxillary_file_paths": [
+                    "results\\Run with some sliders\\Pathfinder\\Pathfinder-2999968.pt"
+                ]
+            },
+            {
+                "steps": 3499981,
+                "file_path": "results\\Run with some sliders\\Pathfinder\\Pathfinder-3499981.onnx",
+                "reward": 175.3644885553994,
+                "creation_time": 1670436313.8343103,
+                "auxillary_file_paths": [
+                    "results\\Run with some sliders\\Pathfinder\\Pathfinder-3499981.pt"
+                ]
+            },
+            {
+                "steps": 3516577,
+                "file_path": "results\\Run with some sliders\\Pathfinder\\Pathfinder-3516577.onnx",
+                "reward": 142.52549963248404,
+                "creation_time": 1670436534.878267,
+                "auxillary_file_paths": [
+                    "results\\Run with some sliders\\Pathfinder\\Pathfinder-3516577.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3516577,
+            "file_path": "results\\Run with some sliders\\Pathfinder.onnx",
+            "reward": 142.52549963248404,
+            "creation_time": 1670436534.878267,
+            "auxillary_file_paths": [
+                "results\\Run with some sliders\\Pathfinder\\Pathfinder-3516577.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

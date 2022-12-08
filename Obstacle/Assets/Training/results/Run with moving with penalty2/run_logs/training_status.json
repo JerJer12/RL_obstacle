@@ -1,0 +1,65 @@
+{
+    "Pathfinder": {
+        "checkpoints": [
+            {
+                "steps": 1499984,
+                "file_path": "results\\Run with moving with penalty2\\Pathfinder\\Pathfinder-1499984.onnx",
+                "reward": 167.35637563209121,
+                "creation_time": 1670448057.2031276,
+                "auxillary_file_paths": [
+                    "results\\Run with moving with penalty2\\Pathfinder\\Pathfinder-1499984.pt"
+                ]
+            },
+            {
+                "steps": 1999976,
+                "file_path": "results\\Run with moving with penalty2\\Pathfinder\\Pathfinder-1999976.onnx",
+                "reward": 370.39372588553516,
+                "creation_time": 1670448881.4279556,
+                "auxillary_file_paths": [
+                    "results\\Run with moving with penalty2\\Pathfinder\\Pathfinder-1999976.pt"
+                ]
+            },
+            {
+                "steps": 2499976,
+                "file_path": "results\\Run with moving with penalty2\\Pathfinder\\Pathfinder-2499976.onnx",
+                "reward": 372.9907758485187,
+                "creation_time": 1670449736.2155974,
+                "auxillary_file_paths": [
+                    "results\\Run with moving with penalty2\\Pathfinder\\Pathfinder-2499976.pt"
+                ]
+            },
+            {
+                "steps": 2999975,
+                "file_path": "results\\Run with moving with penalty2\\Pathfinder\\Pathfinder-2999975.onnx",
+                "reward": 310.86319187855065,
+                "creation_time": 1670450632.9989643,
+                "auxillary_file_paths": [
+                    "results\\Run with moving with penalty2\\Pathfinder\\Pathfinder-2999975.pt"
+                ]
+            },
+            {
+                "steps": 3306425,
+                "file_path": "results\\Run with moving with penalty2\\Pathfinder\\Pathfinder-3306425.onnx",
+                "reward": 98.78706741333008,
+                "creation_time": 1670451196.6165917,
+                "auxillary_file_paths": [
+                    "results\\Run with moving with penalty2\\Pathfinder\\Pathfinder-3306425.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3306425,
+            "file_path": "results\\Run with moving with penalty2\\Pathfinder.onnx",
+            "reward": 98.78706741333008,
+            "creation_time": 1670451196.6165917,
+            "auxillary_file_paths": [
+                "results\\Run with moving with penalty2\\Pathfinder\\Pathfinder-3306425.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

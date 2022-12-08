@@ -1,0 +1,29 @@
+{
+    "Pathfind": {
+        "checkpoints": [
+            {
+                "steps": 149023,
+                "file_path": "results\\Run 4\\Pathfind\\Pathfind-149023.onnx",
+                "reward": 195.21557071957054,
+                "creation_time": 1670334162.7630813,
+                "auxillary_file_paths": [
+                    "results\\Run 4\\Pathfind\\Pathfind-149023.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 149023,
+            "file_path": "results\\Run 4\\Pathfind.onnx",
+            "reward": 195.21557071957054,
+            "creation_time": 1670334162.7630813,
+            "auxillary_file_paths": [
+                "results\\Run 4\\Pathfind\\Pathfind-149023.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
